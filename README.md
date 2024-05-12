@@ -13,6 +13,9 @@ This command-line application allows users to dynamically generate a professiona
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Screenshot](screenshot)
+- [Walkthrough](walkthrough)
+- [Acknowledgement](acknowledgement)
 - [Questions](#questions)
 
 ## Installation <a name="installation"></a>
@@ -29,10 +32,14 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Tests <a name="tests"></a>
 To run tests, use the following command in your terminal `npm test` This command will execute any tests that have been set up for the application.
-
+## Screenshot
+[screenshot](https://github.com/juliettengum/juliette-README.md-generator/blob/main/Screenshot.png?raw=true)
 
  ## Walkthroughvideo
  [link](https://github.com/juliettengum/juliette-README.md-generator/raw/main/walkthroughvideo.mp4)
+
+ ## Acknowledgement
+ Thank you to my course instructors and class mates for always helping me 
 
 ## Questions <a name="questions"></a>
 For questions about this project, please reach out to [juliettengum](https://github.com/juliettengum) at juliettengum19@gmail.com.
